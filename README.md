@@ -44,7 +44,9 @@ Here are some ideas to get you started:
     
 - ⚡ Fun fact: I love playing video games, from Fifa to Fortnite, and I am also really into photography.
     
-- :mailbox:You can reach me through: [![Linkedin Badge](https://img.shields.io/badge/-ShemMwanza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) or
+- :mailbox:You can reach me through: [![Linkedin Badge](https://img.shields.io/badge/-ShemMwanza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) or <a href = "mailto: nzamba.shem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   
     
   </div>
