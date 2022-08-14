@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 </div>
  
  <h1>:fire: My Stats</h1>
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShemMwanza&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemMwanza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
