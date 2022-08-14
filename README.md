@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
  <div id="badges" align="center">
 <!--    <p>Social Media Profiles:</p> -->
-  <a href="https://ke.linkedin.com/in/shem-mwanza-745a18221?trk=people-guest_people_search-card">
+  <a href="https://www.linkedin.com/in/shem-mwanza-745a18221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href = "mailto: nzamba.shem@gmail.com">
